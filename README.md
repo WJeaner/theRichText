@@ -1,0 +1,6 @@
+# theRichText
+一个富文本的demo,里面有多种富文本包含了一段文字里面有两种颜色,两种字体,去除了要用两个label的麻烦
+
+使用说明:
+
+下载demo之后将里面的WKAttributdeString文件夹拖到自己的项目中,然后参考demo里面的代码和注释即可
